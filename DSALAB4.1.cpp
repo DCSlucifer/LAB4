@@ -1,6 +1,6 @@
-// 22520468
-// Nguyen Huy Hoang
-// Exercise 01
+// 22520201
+// Võ Thành Danh
+// Lab4 -exercise
 
 #include <iostream>
 #include <chrono>
